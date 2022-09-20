@@ -4,7 +4,11 @@
 # NOCDDL
 #
 CND_BASEDIR=`pwd`
-# default configuration
-CND_ARTIFACT_DIR_default=dist/default/production
-CND_ARTIFACT_NAME_default=ENCM_511_Driver_Project_1.production.hex
-CND_ARTIFACT_PATH_default=dist/default/production/ENCM_511_Driver_Project_1.production.hex
+# simulator configuration
+CND_ARTIFACT_DIR_simulator=dist/simulator/production
+CND_ARTIFACT_NAME_simulator=ENCM_511_Driver_Project_1.production.hex
+CND_ARTIFACT_PATH_simulator=dist/simulator/production/ENCM_511_Driver_Project_1.production.hex
+# board configuration
+CND_ARTIFACT_DIR_board=dist/board/production
+CND_ARTIFACT_NAME_board=ENCM_511_Driver_Project_1.production.hex
+CND_ARTIFACT_PATH_board=dist/board/production/ENCM_511_Driver_Project_1.production.hex
